@@ -1,0 +1,17 @@
+Feature,Chi2_Statistic,p_value,Degrees_of_Freedom,Cramers_V,Highest_Churn_Group,Lowest_Churn_Group,Statistically_Significant
+Contract,1184.6,5.863038300673391e-258,2,0.4098,Month-to-month (42.7%),Two year (2.8%),True
+OnlineSecurity,850.0,2.661149635176552e-185,2,0.347,No (41.8%),No internet service (7.4%),True
+TechSupport,828.2,1.4430840279998987e-180,2,0.3425,No (41.6%),No internet service (7.4%),True
+InternetService,732.31,9.571788222840544e-160,2,0.322,Fiber optic (41.9%),No (7.4%),True
+PaymentMethod,648.14,3.6823546520097993e-140,3,0.3027,Electronic check (45.3%),Credit card (automatic) (15.2%),True
+OnlineBackup,601.81,2.0797592160864276e-131,2,0.2919,No (39.9%),No internet service (7.4%),True
+DeviceProtection,558.42,5.505219496457244e-122,2,0.2811,No (39.1%),No internet service (7.4%),True
+StreamingMovies,375.66,2.667756755723681e-82,2,0.2304,No (33.7%),No internet service (7.4%),True
+StreamingTV,374.2,5.528994485739183e-82,2,0.2299,No (33.5%),No internet service (7.4%),True
+PaperlessBilling,258.28,4.073354668665985e-58,1,0.1911,Yes (33.6%),No (16.3%),True
+Dependents,189.13,4.9249216612154196e-43,1,0.1634,No (31.3%),Yes (15.5%),True
+SeniorCitizen,159.43,1.510066805092378e-36,1,0.15,1 (41.7%),0 (23.6%),True
+Partner,158.73,2.1399113440759935e-36,1,0.1497,No (33.0%),Yes (19.7%),True
+MultipleLines,11.33,0.0034643829548773003,2,0.0364,Yes (28.6%),No phone service (24.9%),False
+gender,0.48,0.48657873605618596,1,0.0,Female (26.9%),Male (26.2%),False
+PhoneService,0.92,0.3387825358066928,1,0.0,Yes (26.7%),No (24.9%),False

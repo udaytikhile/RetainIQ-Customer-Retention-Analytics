@@ -1,0 +1,5 @@
+ValueRiskQuadrant,customer_count,churn_count,churn_rate_pct,total_monthly_charges,churned_monthly_charges,avg_monthly_charges,avg_tenure_months,avg_service_breadth,customer_share_pct,mrr_share_pct,share_of_churned_mrc_pct
+"Quadrant 1: VIP Flight Risk (High Spend, Month-to-Month)",2104,1111,52.8,184014.8,96996.8,87.46,22.3,2.08,29.87,40.34,69.72
+"Quadrant 2: Core Champions (High Spend, Long Contract)",1487,163,10.96,139847.5,15984.2,94.05,57.2,4.24,21.11,30.66,11.49
+"Quadrant 3: Transactional Vulnerable (Lower Spend, Month-to-Month)",1771,544,30.72,73279.35,23850.3,41.38,13.0,0.93,25.15,16.07,17.14
+"Quadrant 4: Stable Base (Lower Spend, Long Contract)",1681,51,3.03,58974.95,2299.55,35.08,43.4,1.21,23.87,12.93,1.65
